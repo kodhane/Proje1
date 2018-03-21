@@ -1,2 +1,2 @@
 # Proje1
-Proje1
+Bu proje, bir deneme projedir.
